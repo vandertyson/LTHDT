@@ -6,7 +6,7 @@ CSDL và biết những hồ sơ nào mình phải xử lý.
 ## Dữ liệu đầu vào
 * File csdl-bk.csv chứa danh sách giả lập điểm thi THPT quốc gia của tất cả thí sinh đăng ký nguyện vọng xét tuyển vào ĐHBKHN
 * File dangkynv-bk.csv chứa danh sách giả lập hồ sơ đăng ký nguyện vọng xét tuyển vào ĐHBKHN của tất cả thí sinh
-* File TSBK_KSPT.PDF chứa thông tin về chỉ tiêu tuyển sinh và công thức tính điểm xét tuyển
+* File TSBK_KhaoSat.PDF chứa thông tin về chỉ tiêu tuyển sinh và công thức tính điểm xét tuyển
 
 ## Yêu cầu
 1. Tạo 1 project trên github để chứa kết quả của bài kiểm tra này
