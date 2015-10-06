@@ -20,8 +20,9 @@ sẽ xử lý 100 hồ sơ từ thứ 100 tới 199, sinh viên có ID là 2 s�
 
 5. Viết báo cáo (.doc) mô tả thuật toán, kết quả chạy chương trình. Public báo cáo, mã nguồn chương trình và file .db trong thư mục dự án trên github
 
-6. Nộp báo cáo bản in và đường link tới thư mục dự án trên github (với số commit SHA xác định phiên bản) cho lớp trưởng (nhờ lớp trưởng tập hợp các đường link vào file excel giúp).
+6. Nộp báo cáo bản in cho lớp trưởng và hoàn thành form ở đường link http://goo.gl/forms/ws9xKl3pnt (hướng dẫn lấy chuỗi commit SHA ở file danhsach.xlsx
 
 ##Lưu ý
 1. Chương trình có thể sử dụng các thư viện mã nguồn mở nhưng phải chỉ rõ nguồn trong chương trình và trong báo cáo
 2. Sinh viên phải tự làm bài kiểm tra này, không được copy chương trình, báo cáo của bất kỳ ai và phải viết câu sau ở trang đầu của báo cáo "Tôi cam kết chương trình, kết quả chạy chương trình và báo cáo này do mình tự làm, không sao chép của bất cứ ai."
+3. Hạn cuối nộp kế quả là <font color='red'>**6/11/2015**</font>
