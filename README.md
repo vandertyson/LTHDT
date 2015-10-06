@@ -25,4 +25,4 @@ sẽ xử lý 100 hồ sơ từ thứ 100 tới 199, sinh viên có ID là 2 s�
 ##Lưu ý
 1. Chương trình có thể sử dụng các thư viện mã nguồn mở nhưng phải chỉ rõ nguồn trong chương trình và trong báo cáo
 2. Sinh viên phải tự làm bài kiểm tra này, không được copy chương trình, báo cáo của bất kỳ ai và phải viết câu sau ở trang đầu của báo cáo "Tôi cam kết chương trình, kết quả chạy chương trình và báo cáo này do mình tự làm, không sao chép của bất cứ ai."
-3. Hạn cuối nộp kế quả là <font color='red'>**6/11/2015**</font>
+3. Hạn cuối nộp kết quả là <font color='red'>**6/11/2015**</font>
