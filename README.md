@@ -20,7 +20,7 @@ sẽ xử lý 100 hồ sơ từ thứ 100 tới 199, sinh viên có ID là 2 s�
 
 5. Viết báo cáo (.doc) mô tả thuật toán, kết quả chạy chương trình. Public báo cáo, mã nguồn chương trình và file .db trong thư mục dự án trên github
 
-6. Nộp báo cáo bản in cho lớp trưởng và hoàn thành form ở đường link http://goo.gl/forms/ws9xKl3pnt (hướng dẫn lấy chuỗi commit SHA ở file danhsach.xlsx
+6. Nộp báo cáo bản in cho lớp trưởng và hoàn thành form ở đường link http://goo.gl/forms/ws9xKl3pnt (hướng dẫn lấy chuỗi commit SHA ở file danhsach.xlsx).
 
 ##Lưu ý
 1. Chương trình có thể sử dụng các thư viện mã nguồn mở nhưng phải chỉ rõ nguồn trong chương trình và trong báo cáo
